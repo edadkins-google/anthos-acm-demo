@@ -4,3 +4,4 @@ metadata:
   name: onlineboutique
   labels:
     istio-injection: enabled
+    cost-center: onlineboutique.anthos-security-demo.com
