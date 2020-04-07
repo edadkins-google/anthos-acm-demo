@@ -4,3 +4,5 @@ metadata:
   name: istio-system 
   labels:
     istio-injection: disabled
+    cost-center: istio.anthos-security-demo.com
+
