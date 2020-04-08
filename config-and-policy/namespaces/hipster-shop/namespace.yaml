@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: hipster-shop
-  labels:
-    istio-injection: enabled
-    cost-center: hipstershop.anthos-security-demo.com
